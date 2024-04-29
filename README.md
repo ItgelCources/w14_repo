@@ -1,2 +1,2 @@
-# w14_repo
+# week14_repo
 my first repository!!!
